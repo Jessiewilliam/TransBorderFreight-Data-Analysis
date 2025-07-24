@@ -4,28 +4,35 @@ This project analyzes U.S. North American TransBorder Freight data from 2020 to 
 ## 📂 Project Structure
 ### Project Link:(https://drive.google.com/drive/folders/1xpvt-Ak-n1g7XgJYBUCzdzMCLoAxsp9u?usp=drive_link)
 Each month folder contains multiple `.csv` files (e.g., `dot1_0720.csv`, `dot2_0720.csv`, etc.).
+
 📁 data/
+
 ├── 2020/
 │ ├── January2020TransBorderRawData/
 │ ├── February2020TransBorderRawData/
 │ └── ...
+
 ├── 2021/
 │ ├── January2021TransBorderRawData/
 │ ├── Febraury2021TransBorderRawData/
 │ └── ...
+
 ├── 2022/
 │ ├── January2022TransBorderRawData/
 │ ├── February2022TransBorderRawData/
 │ └──
+
 ├── 2023/
 │ ├── January2023TransBorderRawData/
 │ ├── February2023TransBorderRawData/
 │ └──
+
 ├── 2024/
 │ ├── January2024TransBorderRawData/
 │ ├── Febraury2024TransBorderRawData/
 │ └──
 ├── ...
+
 
 ## 🧠 Analysis Goals
 
@@ -98,7 +105,8 @@ Copy_of_Main_Transborder_Freight.ipynb – Cleaned data sample
 
 codes-north-american-transborder-freight-raw-data.pdf – Metadata and codebook
 
-🙋‍♂️ Author
+
+###🙋‍♂️ Author
 Jessica William
 
 📜 License
