@@ -61,7 +61,7 @@ Using the **CRISP-DM** methodology, we aimed to:
 ### ✅ Key Insights:
 0
 1. **Freight Value Fluctuations**:
-   - Trade value was highest in **August 2020** and **July 2023**.
+   - Trade value was highest in **January 2020** and **January 2023**.
    - Sharp drops were observed during early pandemic months.
 
 2. **Missing Year Data**:
@@ -111,4 +111,5 @@ Jessica William
 
 📜 License
 This project is for educational and analytical purposes only.
+
 
